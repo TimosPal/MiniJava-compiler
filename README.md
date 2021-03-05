@@ -1,9 +1,10 @@
 # MiniJava-compiler
 A compiler for the minijava language.
-The compiler outputs LLVM code (.ll files)
+A syntax tree is generated and is analyzed for possible syntax errors.
+Produces intermediate code. (llvm , .ll files)
 
-# Arguments
+## Arguments
 Multiple files can be passed to be compiled.
 
-# Tools used
+## Tools used
 javacup , a LALR parser generator for Java.
