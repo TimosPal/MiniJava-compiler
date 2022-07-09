@@ -1,6 +1,6 @@
 # MiniJava-compiler
 A compiler for the minijava language.
-A syntax tree is generated and is analyzed for possible syntax errors.
+A syntax tree is generated and analyzed for possible syntax errors.
 Produces intermediate code. (llvm , .ll files)
 
 ## Compilation
